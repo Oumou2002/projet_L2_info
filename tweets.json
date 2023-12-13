@@ -1,0 +1,198 @@
+[
+    {
+        "id": 1,
+        "user": "OUMOU",
+        "text": "étudiante",
+        "hashtags": [
+            "#55",
+            "#2"
+        ],
+        "mentions": [
+            "@mention1",
+            "@mention2"
+        ],
+        "sentiment": "négatif",
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "hashtag1",
+                    "indices": [
+                        10,
+                        19
+                    ]
+                },
+                {
+                    "text": "hashtag2",
+                    "indices": [
+                        30,
+                        39
+                    ]
+                }
+            ],
+            "mentions": [
+                {
+                    "username": "mention1",
+                    "indices": [
+                        5,
+                        14
+                    ]
+                },
+                {
+                    "username": "mention2",
+                    "indices": [
+                        25,
+                        34
+                    ]
+                }
+            ]
+        },
+        "conversation_id": "conv_1"
+    },
+    {
+        "id": 2,
+        "user": "OUMOU",
+        "text": "étudiante",
+        "hashtags": [
+            "#55",
+            "#2"
+        ],
+        "mentions": [
+            "@mention1",
+            "@mention2"
+        ],
+        "sentiment": "positif",
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "hashtag1",
+                    "indices": [
+                        10,
+                        19
+                    ]
+                },
+                {
+                    "text": "hashtag2",
+                    "indices": [
+                        30,
+                        39
+                    ]
+                }
+            ],
+            "mentions": [
+                {
+                    "username": "mention1",
+                    "indices": [
+                        5,
+                        14
+                    ]
+                },
+                {
+                    "username": "mention2",
+                    "indices": [
+                        25,
+                        34
+                    ]
+                }
+            ]
+        },
+        "conversation_id": "conv_2"
+    },
+    {
+        "id": 3,
+        "user": "OUMOU",
+        "text": "étudiante",
+        "hashtags": [
+            "#55",
+            "#2"
+        ],
+        "mentions": [
+            "@mention1",
+            "@mention2"
+        ],
+        "sentiment": "négatif",
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "hashtag1",
+                    "indices": [
+                        10,
+                        19
+                    ]
+                },
+                {
+                    "text": "hashtag2",
+                    "indices": [
+                        30,
+                        39
+                    ]
+                }
+            ],
+            "mentions": [
+                {
+                    "username": "mention1",
+                    "indices": [
+                        5,
+                        14
+                    ]
+                },
+                {
+                    "username": "mention2",
+                    "indices": [
+                        25,
+                        34
+                    ]
+                }
+            ]
+        },
+        "conversation_id": "conv_3"
+    },
+    {
+        "id": 4,
+        "user": "OUMOU",
+        "text": "étudiante",
+        "hashtags": [
+            "#55",
+            "#2"
+        ],
+        "mentions": [
+            "@mention1",
+            "@mention2"
+        ],
+        "sentiment": "positif",
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "hashtag1",
+                    "indices": [
+                        10,
+                        19
+                    ]
+                },
+                {
+                    "text": "hashtag2",
+                    "indices": [
+                        30,
+                        39
+                    ]
+                }
+            ],
+            "mentions": [
+                {
+                    "username": "mention1",
+                    "indices": [
+                        5,
+                        14
+                    ]
+                },
+                {
+                    "username": "mention2",
+                    "indices": [
+                        25,
+                        34
+                    ]
+                }
+            ]
+        },
+        "conversation_id": "conv_4"
+    }
+]

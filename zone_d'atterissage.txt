@@ -1,0 +1,4 @@
+{'auteur': 1, 'text': 'étudiante', 'hashtags': [], 'mentions': ['mention1', 'mention2'], 'topics': [], 'sentiment': (-0.43, 0.84)}
+{'auteur': 2, 'text': 'étudiante', 'hashtags': [], 'mentions': ['mention1', 'mention2'], 'topics': [], 'sentiment': (0.46, 0.79)}
+{'auteur': 3, 'text': 'étudiante', 'hashtags': [], 'mentions': ['mention1', 'mention2'], 'topics': [], 'sentiment': (0.3, 0.76)}
+{'auteur': 4, 'text': 'étudiante', 'hashtags': [], 'mentions': ['mention1', 'mention2'], 'topics': [], 'sentiment': (0.28, 0.93)}
